@@ -25,7 +25,7 @@
     <com.alipay.sdk-version>3.3.4.ALL</com.alipay.sdk-version>
     <redis.clients-version>3.0.1</redis.clients-version>
     <org.slf4j-version>1.7.25</org.slf4j-version>
-    <com.alibaba-version>1.2.29</com.alibaba-version>
+    <com.alibaba-version>1.2.83</com.alibaba-version>
     <org.apache.commons-version>3.8.1</org.apache.commons-version>
     <org.scribe-version>1.3.7</org.scribe-version>
     <io.springfox-version>2.9.2</io.springfox-version>
